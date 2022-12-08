@@ -1,0 +1,4 @@
+export const FLAG_TYPE="FLAG_TYPE";
+export const CAPITAL_TYPE="CAPITAL_TYPE";
+export const AREA_TYPE="AREA_TYPE";
+export const POPULATION_TYPE="POPULATION_TYPE";
